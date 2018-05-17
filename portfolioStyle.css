@@ -1,6 +1,11 @@
 body {
 	background: #20202a;
+	color: #dddddd;
 }
 h1 {
-	color: #dddddd;
+	
+}
+
+h2 {
+	margin-left: 10%;
 }
